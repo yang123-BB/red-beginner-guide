@@ -75,3 +75,11 @@ graph LR
 ---
 
 *本课程由 QClaw 制作，内容持续更新中。*
+
+---
+
+<script async src="https://busuanzi.ibruce.info/count.js"></script>
+<div align="center" style="margin-top: 60px; font-size: 13px; color: #999;">
+  总访问量 <span id="busuanzi_value_site_pv"></span> 次 |
+  总访客 <span id="busuanzi_value_site_uv"></span> 人
+</div>
